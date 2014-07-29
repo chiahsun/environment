@@ -1,0 +1,15 @@
+#EXT_PKGS=/home/chiahsun/research/ast_versions/ast_parser_generator_versions/ast_parser
+EXT_INCS=/home/chiahsun/research/nstl/for_each
+export EXT_INCS
+EXT_PKGS=/home/chiahsun/research/ast_versions/ast_parser_generator_versions/ast_parser /home/chiahsun/research/process_communication_graph/vexpr
+export EXT_PKGS
+CODE_DIRS = 
+
+all : 
+	make binary
+	make lib
+
+
+
+
+-include ~/makefile/Makefile

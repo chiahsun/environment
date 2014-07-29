@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/chiahsun/Desktop/source_code_browse/python'
+let g:netrw_dirhist_2='/Users/chiahsun/Desktop/source_code_browse'
+let g:netrw_dirhist_3='/Users/chiahsun/Desktop'
+let g:netrw_dirhist_4='/Users/chiahsun/Desktop/source_code_browse/python/django'
+let g:netrw_dirhist_5='/Users/chiahsun/research/nstl_versions/nstl/for_each'
+let g:netrw_dirhist_6='/Users/chiahsun/research/lexer_generator_versions/lexer_gen'
+let g:netrw_dirhist_7='/Users/chiahsun/.ssh'
